@@ -1,5 +1,2 @@
 discord
 wikipedia
-youtube_dl
-dotenv
-asyncio
