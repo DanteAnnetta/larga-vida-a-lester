@@ -221,4 +221,4 @@ if __name__ == '__main__':  # Ensures this is the file being ran
 
 keep_alive()  # Starts a webserver to be pinged.
 
-bot.run("NzM4ODczMDMwOTY4NzM3ODcy.XySPIg.BKS79vSPSLCtn9t-SlpOyiFYKiY")  # Starts the bot
+bot.run("")  # Starts the bot
